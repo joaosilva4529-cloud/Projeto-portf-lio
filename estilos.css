@@ -1,0 +1,29 @@
+h1{
+    background-color: cadetblue                 ;
+    font-family: cursive;
+    width:max-content;
+    border-radius: 50px             ;
+    padding: 40px;
+    translate: 1.1px;
+    scale: 1.1;
+    background-color:linear-gradient(#424e5e , #5a5c75);
+    background-color: rgba(0,0,0,0.5);
+    color:rgb(230, 216, 216);
+    padding: 10px;
+}
+
+
+header{
+    background-color: #001f36;
+    padding: 50px;
+    background-image:url(../imagemsdosite/headerporenquanto.avif);
+    background-size: cover; /*isso ak e para a foto cobrir todo o espaço*/
+    background-position: center; /*Isso centraliza o negocio ó*/
+    
+}
+
+body {
+    min-height: 100vh;
+    margin: 0;
+    background-image:linear-gradient(#142738, #4b538b);
+}
